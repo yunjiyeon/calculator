@@ -8,3 +8,6 @@
 
 ## ✨ privew
 <img src="screenshot.png" width="100%" >
+
+***
+<a href="https://yunjiyeon.github.io/calculator/"> 🔗 계산기 실행하러 가기 </a>
