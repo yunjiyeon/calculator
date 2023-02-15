@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+#result {
+  width: 180px;
+  height: 50px;
+  margin: 5px;
+  text-align: right;
+  padding: 10px;
+  outline: none;
+}
+
+#operator {
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  text-align: center;
+  outline: none;
+}
+
+
+  button, .shadow {
+  border: none;
+  background-color: #e9e9ed;
+  border-radius: 10px;
+  box-shadow: 
+  -7px -7px 20px 0px #fff9,
+  -4px -4px 5px 0px #fff9,
+  7px 7px 20px 0px #0002,
+  4px 4px 5px 0px #0001;
+}
+
+button{ 
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.number {
+  background-color: #e9e9ed;
+  margin: 100px auto;
+  padding: 50px 0;
+  text-align: center;
+  width: 300px;
+  border-radius: 30px;
+}
+
+
